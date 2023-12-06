@@ -1,5 +1,5 @@
 /* 
-    Scratchcards:
+    Scratchcards: SOLVED
 */
 use std::fs::File;
 use std::io::{BufReader, BufRead, Result};
